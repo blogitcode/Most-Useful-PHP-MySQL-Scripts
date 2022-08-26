@@ -1,4 +1,5 @@
 # Collection Most Useful PHP & MySQL Scripts Free Download
+# <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcT-K8II4V4_nasIb3RPDti0kv7pqVRMM1J1ItHolAHCYEd1KMfNjCC-QmyKlrb58ClVKy8pWokTH8rUY1kPvX7lUzL52AlQrIoPuDnRMCA4Kw6scCKo855BJHPCLOzykjG6-PIZCM3O9TE2B5sQXTEskDK6gEZsk4znvYNIiyBYA8Q7PNK0uzrLRP-w/s1280/source-4280758_1280.jpg" alt="Collection Most Useful PHP & MySQL Scripts Free Download" />
 ## News & Magazine
 - <a href="https://www.blogitcode.com/2022/08/botble-cms-personal-blog-script-using-laravel.html">Botble CMS - Personal Blog Script using Laravel</a>
 - <a href="https://www.blogitcode.com/2022/08/angkor-news-newspaper-cms-php.html">Angkor News - Newspaper CMS PHP</a>
@@ -57,8 +58,7 @@
 - <a href="https://www.blogitcode.com/2022/04/tinyfilemanager-trinh-quan-ly-tap-tin.html">Tiny File Manager - Web based File Manager in PHP,</a>
 - <a href="https://www.blogitcode.com/2021/03/source-code-file-sharing-and-cloud.html">BeDrive - Script File Sharing and Cloud Storage</a>
 - <a href="https://www.blogitcode.com/2021/01/best-open-source-file-manager-for.html">Best Open Source File Manager For Website</a>
-- <a href=""></a>
-- <a href=""></a>
+
 ## My information
 - Website: https://www.blogitcode.com/search/label/SLiMS
 - Email: blogitcodes@gmail.com
