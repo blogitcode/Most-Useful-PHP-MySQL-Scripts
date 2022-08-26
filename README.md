@@ -11,12 +11,27 @@
 - <a href="https://www.blogitcode.com/2021/03/ninja-script-script-code-giong-haivl.html">Ninja Media Script - Create a Viral Media Sharing Site</a>
 - <a href="https://www.blogitcode.com/2021/03/source-code-tin-tuc-bang-codeigniter.html">Newspaper Script CodeIgniter</a>
 - <a href="https://www.blogitcode.com/2021/03/blog-magazine-script-codeigniter.html">Blog & Magazine Script CodeIgniter</a>
+- <a href="https://www.blogitcode.com/2021/01/news-magazine-scripts.html">News & Magazine Scripts</a>
+
+## Ecommerce - Shopping Carts
 - <a href=""></a>
 - <a href=""></a>
 - <a href=""></a>
 - <a href=""></a>
 - <a href=""></a>
 - <a href=""></a>
+- <a href=""></a>
+- <a href=""></a>
+- <a href=""></a>
+- <a href=""></a>
+- <a href=""></a>
+- <a href=""></a>
+- <a href=""></a>
+- <a href=""></a>
+- <a href=""></a>
+- <a href=""></a>
+- <a href=""></a>
+
 
 ## My information
 - Website: https://www.blogitcode.com/search/label/SLiMS
