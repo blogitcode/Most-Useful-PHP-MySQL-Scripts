@@ -37,7 +37,28 @@
 - <a href="https://www.blogitcode.com/2021/01/ecommerce-codeigniter-template-master.html">Ecommerce Codeigniter Template Master</a>
 - <a href="https://www.blogitcode.com/2021/01/restaurant-food-ordering-system-scripts.html">Restaurant Food Ordering System Scripts</a>
 - <a href="https://www.blogitcode.com/2021/01/digital-sell-marketplace-script.html">Digital Sell Marketplace Script</a>
+## Social Networking
+- <a href="https://www.blogitcode.com/2022/06/phpsocial-latest-version-700-social.html">phpSocial - Social Network Platform</a>
+- <a href="https://www.blogitcode.com/2022/05/sngine-ung-dung-tao-trang-mang-xa-hoi.html">Sngine - The Ultimate PHP Social Network Platform</a>
+- <a href="https://www.blogitcode.com/2022/03/social-networking-script-laravel.html">Social Networking Script Laravel</a>
+- <a href="https://www.blogitcode.com/2021/06/phpfox-social-network-platform-php.html">phpFox - Social Network Platform PHP</a>
+- <a href="https://www.blogitcode.com/2021/03/tao-trang-mang-xa-hoi-voi-humhub.html">HumHub - The flexible Open Source Social Network</a>
+- <a href="https://www.blogitcode.com/2021/03/tao-trang-hoi-ap-truc-tuyen-voi.html">Question2Answer - Free Open Source Q&A Software for PHP</a>
+- <a href="https://www.blogitcode.com/2021/01/open-source-helpdesk-ticket-system.html">Open Source HelpDesk Ticket System</a>
+- <a href="https://www.blogitcode.com/2022/08/ultimate-instagram-clone-social.html">Ultimate Instagram Clone Social Networking Platform</a>
+## Media Sharing
+- <a href="https://www.blogitcode.com/2022/05/avideo-youtube-clone-script-in-php.html">Avideo - YouTube clone script in PHP</a>
+- <a href="https://www.blogitcode.com/2022/05/playtube-video-sharing-platform-cms.html">PlayTube - Video Sharing Platform CMS</a>
+- <a href="https://www.blogitcode.com/2022/05/clipbucket-ma-nguon-tao-website-chia-se-video.html">ClipBucket – Open Source, VOD, OTT, Enterprise Video</a>
+- <a href="https://www.blogitcode.com/2022/05/tiktok-video-downloader-without.html">TikTok Video Downloader Without Watermark</a>
+- <a href="https://www.blogitcode.com/2021/02/phpvibe-video-sharing-cms-free.html">PHPVibe Video Sharing CMS Free</a>
 
+## File Sharing
+- <a href="https://www.blogitcode.com/2022/04/tinyfilemanager-trinh-quan-ly-tap-tin.html">Tiny File Manager - Web based File Manager in PHP,</a>
+- <a href="https://www.blogitcode.com/2021/03/source-code-file-sharing-and-cloud.html">BeDrive - Script File Sharing and Cloud Storage</a>
+- <a href="https://www.blogitcode.com/2021/01/best-open-source-file-manager-for.html">Best Open Source File Manager For Website</a>
+- <a href=""></a>
+- <a href=""></a>
 ## My information
 - Website: https://www.blogitcode.com/search/label/SLiMS
 - Email: blogitcodes@gmail.com
